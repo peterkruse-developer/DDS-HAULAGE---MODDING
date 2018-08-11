@@ -26,7 +26,21 @@ Få IP til denne maskine, du skal bruge den til at køre serveren.
 Start spillet før ddsmod-serveren. Når du er i stand til at køre, skal du starte serveren.
 
 
+
+
+
+
+
+
+
 ENGLISH VERSION:
+
+
+
+
+
+
+
 
 
 DDS HAULAGE --- Modding
