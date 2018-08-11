@@ -29,7 +29,7 @@ Start spillet før ddsmod-serveren. Når du er i stand til at køre, skal du sta
 
 
 
-
+==============================================================
 
 
 
@@ -37,7 +37,7 @@ ENGLISH VERSION:
 
 
 
-
+===============================================================
 
 
 
